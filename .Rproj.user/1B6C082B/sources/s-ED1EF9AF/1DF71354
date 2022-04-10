@@ -1,26 +1,26 @@
 {
-    "id": "55AA679D",
+    "id": "1DF71354",
     "path": "C:/Users/hibah/Desktop/Bootcamp/module 15 -  R and Statistics/R_Analysis/Challenge/MechaCarChallenge.r",
     "project_path": "MechaCarChallenge.r",
     "type": "r_source",
-    "hash": "597073974",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1649538711576.0,
+    "created": 1649569294681.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,115",
+        "cursorPosition": "13,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1649539290,
+    "lastKnownWriteTime": 1649569254,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1649539290459,
+    "last_content_update": 1649569254,
     "read_only": false,
     "read_only_alternatives": []
 }
